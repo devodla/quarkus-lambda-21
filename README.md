@@ -4,6 +4,11 @@ JAVA_HOME="/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home" ./mvn
 curl -d "{\"name\":\"John\"}" -X POST http://localhost:8080
 ```
 
+# Documentation based
+For created: https://code.quarkus.io
+For set api: https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-8-rest-api-application-3p4
+More details: https://medium.com/rapaduratech/criando-um-serviço-com-quarkus-e-publicando-na-aws-lambda-457081532ca1
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
