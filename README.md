@@ -1,3 +1,9 @@
+# Running in local
+```shell script
+JAVA_HOME="/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home" ./mvnw quarkus:dev
+curl -d "{\"name\":\"John\"}" -X POST http://localhost:8080
+```
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
